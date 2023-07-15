@@ -1,0 +1,2 @@
+# week-2-classifier
+APPLICATION TO CLASSIFY RECORDS
